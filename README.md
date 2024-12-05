@@ -19,3 +19,15 @@
 
 # System Architecture Style
 The chosen architecture for this system is "Frontend + Monolithic Backend".
+
+# Architecture Diagram
+```
++-----------+          +-----------+
+| Frontend  | <------> |  Backend  |
++-----------+          +-----------+
+      |                      |
+      v                      v
++----------------+    +----------------+
+| jsonplaceholder|    |  System Clock  |
++----------------+    +----------------+
+```
