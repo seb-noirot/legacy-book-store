@@ -17,3 +17,5 @@
 * External I/O System: jsonplaceholder (https://jsonplaceholder.typicode.com/)
 * External Non-deterministic System: System Clock
 
+# System Architecture Style
+The chosen architecture for this system is "Frontend + Monolithic Backend".
