@@ -31,3 +31,10 @@ The chosen architecture for this system is "Frontend + Monolithic Backend".
 | jsonplaceholder|    |  System Clock  |
 +----------------+    +----------------+
 ```
+
+# Tech Stack
+* Programming Language: Java, Javascript
+* Frameworks: Quarkus, React
+* Database: MySQL
+* Message Broker: Kafka
+* Other Technologies: Docker, Maven
