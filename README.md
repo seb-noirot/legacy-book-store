@@ -44,3 +44,6 @@ The chosen repository strategy for this project is the Mono-Repo approach. All c
 
 # Branching Strategy
 The chosen branching strategy for this project is Feature Branching. Each new feature or bug fix is developed in its own branch, which is then merged into the main branch after review and approval.
+
+# Deployment Model
+We chose Google Cloud Platform (GCP) as our deployment model. 
