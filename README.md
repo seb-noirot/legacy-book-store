@@ -12,3 +12,8 @@
 6. **User Registration and Login**: Users can create an account and log in to access their personal information and order history.
 7. **Order History**: Users can view their past orders and order details.
 8. **Leave Reviews**: Users can leave reviews and ratings for books they have purchased.
+
+# External Systems
+* External I/O System: jsonplaceholder (https://jsonplaceholder.typicode.com/)
+* External Non-deterministic System: System Clock
+
