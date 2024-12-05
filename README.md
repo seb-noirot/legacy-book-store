@@ -41,3 +41,6 @@ The chosen architecture for this system is "Frontend + Monolithic Backend".
 
 # Repository Strategy
 The chosen repository strategy for this project is the Mono-Repo approach. All components of the system are maintained in a single repository. This approach allows for easier management of dependencies, centralized version control, and simplified development and testing of the entire system.
+
+# Branching Strategy
+The chosen branching strategy for this project is Feature Branching. Each new feature or bug fix is developed in its own branch, which is then merged into the main branch after review and approval.
